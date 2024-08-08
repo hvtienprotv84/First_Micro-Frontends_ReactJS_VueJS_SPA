@@ -1,3 +1,7 @@
+<div>
+    <img src="https://i.ytimg.com/vi/-BT_6iurYOs/maxresdefault.jpg" width="800"/>
+</div>
+
 # First Micro Frontends - ReactJS - VueJS - SPA 
 # (Single Page Application)
 

@@ -1,5 +1,13 @@
 import React from "react"
 
-const App = () => <h1>Hello from React</h1>
+const App = () => 
+    <div>
+        <p>
+            abc
+        </p>
+        <p>
+            abc2
+        </p>
+    </div>
 
 export default App
