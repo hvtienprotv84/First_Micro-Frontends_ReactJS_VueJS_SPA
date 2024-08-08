@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
+}
+.img{
+    width: 100%;
+    max-width: 400px;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.border_container {
+    border: 2px red dashed;
+    border-radius: 10px;
+    position: relative; /* Thay vì absolute, sử dụng relative hoặc static cho căn giữa ngang */
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto; /* Căn giữa theo chiều ngang */
+    padding: 20px;
+ 
+}
+
+#vue{
+    margin-top: 20px;
+}
