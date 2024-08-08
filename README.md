@@ -4,10 +4,6 @@
 ## Run
 ```
 npm install
-
-hoặc
-
-yarn
 ```
 ```sh
 npm start
