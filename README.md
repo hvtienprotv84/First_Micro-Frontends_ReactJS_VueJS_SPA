@@ -1,4 +1,4 @@
-# First Micro Frontends - ReactJS - VueJS - Single Page Application
+# First Micro Frontends - ReactJS - VueJS - SPA (Single Page Application)
 
 ## Run
 
