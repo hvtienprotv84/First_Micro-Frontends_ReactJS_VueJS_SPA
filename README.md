@@ -4,6 +4,10 @@
 
 # First Micro Frontends - ReactJS - VueJS - SPA 
 # (Single Page Application)
+- Single-spa
+- ReactJS
+- VueJS
+- Webpack
 
 ## Run
 ```
